@@ -2,6 +2,7 @@
   "scripts": {
     "ts-node": "ts-node"
   },
+  "bin": "./bin/cli.js",
   "devDependencies": {
     "@types/lodash": "^4.17.7",
     "@vue/language-server": "^2.1.6",
